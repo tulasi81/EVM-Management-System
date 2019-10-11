@@ -48,7 +48,11 @@ while(1):
   n=int(input("Enter your choice:"))
   if(n==1):
     voter()
-  elif(==2n):
+  elif(n==2):
+    castvote()
+  elif(n==3):
+    result()
+    
   
         
   
